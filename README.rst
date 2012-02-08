@@ -1,4 +1,4 @@
-Documentos referentes ao Núcleo de Sistemas de Informação
----------------------------------------------------------
+Documentos referentes ao processo de produção do Núcleo
+-------------------------------------------------------
 
-Documentação técnica, documentos do processo, modelos e manuais.
+Documentação técnica de produto e de processo, modelos e manuais.
