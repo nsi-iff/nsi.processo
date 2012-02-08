@@ -1,6 +1,3 @@
-Documentos 
-==========
-
 Documentos referentes ao Núcleo de Sistemas de Informação
 ---------------------------------------------------------
 
