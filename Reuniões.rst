@@ -26,4 +26,4 @@ Importante
 ++++++++++
 
 - Evitar falar de coisas filosóficas
-- Evitar discussões dobre ferramentas e abordagens tecnológicas
+- Evitar discussões sobre ferramentas e abordagens tecnológicas
