@@ -1,10 +1,10 @@
 REUNIÕES
-++++++++
+--------
 
 Reunião de Planejamento da Iteração
 
 Tópicos
-+++++++
+-------
 
 - Dificuldades, problemas, pendências, observações... (retrospectiva)
 
@@ -23,7 +23,7 @@ Durante a reunião
  - Completar a iteração com as issues no Github: estimar issues, dividir issues com estimativa maior que uma iteração, definir com a equipe o que é suficiente para uma iteração
 
 Importante
-++++++++++
+----------
 
 - Evitar falar de coisas filosóficas
 - Evitar discussões sobre ferramentas e abordagens tecnológicas
