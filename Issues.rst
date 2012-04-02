@@ -18,10 +18,10 @@ Exemplo: Campo text-area em "Novas Tags", em Objeto de Aprendizagem.
 - Sempre especificar o comportamento de resposta da aplicação ou o critério de aceitação.
 
 Informações que devem ser adicionadas:
-	Título
-	Descrição
-	Observações
-	Autorização
-	Pré-condição
-	Pós-condição
-	GUI
+Título
+	- Descrição
+	- Observações
+	- Autorização
+	- Pré-condição
+	- Pós-condição
+	- GUI
