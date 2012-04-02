@@ -19,9 +19,9 @@ Exemplo: Campo text-area em "Novas Tags", em Objeto de Aprendizagem.
 
 Informações que devem ser adicionadas:
 Título
-	- Descrição
-	- Observações
-	- Autorização
-	- Pré-condição
-	- Pós-condição
-	- GUI
+- Descrição
+- Observações
+- Autorização
+- Pré-condição
+- Pós-condição
+- GUI
